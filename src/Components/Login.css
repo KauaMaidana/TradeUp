@@ -1,0 +1,30 @@
+.input1{
+   margin-bottom: 40px
+}
+
+input{
+    padding: 20px;
+}
+
+.box {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.icon{
+    margin-right: 2%;
+}
+.icons-login{
+    width: 60%;
+    margin: auto;
+    justify-content: space-evenly;
+    display: flex;
+}
+
+.icon-login{
+    width: 30px;
+    height: 30px;
+}
+
+
+ 
